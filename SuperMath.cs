@@ -15,7 +15,6 @@ class GFG {
         // To find PI constant values 
         double pi_value = Math.PI; 
   
-        // Print result 
-        Console.WriteLine("Math.PI = " + pi_value); 
+      
     } 
 } 
