@@ -35,7 +35,7 @@ public class Calculator
     public void main (String[] args)
     {
       System.out.println("What operation? ('+', '-', '*', '/')"); 
-
+        System.out.println("Awsome");
       System.out.println("Insert 2 numbers to be subtracted");
        System.out.println("operand 1: ");
        x = operands;
