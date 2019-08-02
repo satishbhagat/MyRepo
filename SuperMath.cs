@@ -14,7 +14,9 @@ class GFG {
   
         // To find PI constant values 
         double pi_value = Math.PI; 
-  
+        //adding a comment
+      double pi_value = Math.PI+1; 
+      
       
     } 
 } 
